@@ -1,4 +1,7 @@
 # FarmaStock — CRUD de Medicamentos
+## Mejora implementada
+
+Se realizaron mejoras en el módulo de registro de medicamentos para optimizar el proceso de creación de nuevos registros y facilitar su mantenimiento.
 
 Proyecto universitario para la práctica de **Scrum Poker** y **Sprint Planning**.
 El incremento funcional final será un **CRUD de Gestión de Medicamentos** para FarmaStock.
