@@ -324,3 +324,7 @@ farmastock-crud-medicamentos/
 ### Mejoras realizadas
 
 - Se documentó el proceso de consulta de medicamentos.
+
+### Actualización de edición de medicamentos
+
+Se añadió documentación sobre el proceso de edición de medicamentos dentro del CRUD, indicando que el usuario puede modificar la información de un medicamento existente y guardar los cambios para mantener actualizado el inventario.
