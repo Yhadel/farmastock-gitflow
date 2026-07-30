@@ -328,3 +328,7 @@ farmastock-crud-medicamentos/
 ### Actualización de edición de medicamentos
 
 Se añadió documentación sobre el proceso de edición de medicamentos dentro del CRUD, indicando que el usuario puede modificar la información de un medicamento existente y guardar los cambios para mantener actualizado el inventario.
+
+### Actualización de eliminación de medicamentos
+
+Se agregó documentación sobre el proceso de eliminación de medicamentos. Antes de eliminar un registro, el sistema solicita una confirmación al usuario para evitar eliminaciones accidentales y mantener la integridad de la información.
