@@ -321,3 +321,6 @@ farmastock-crud-medicamentos/
 ├── .gitignore
 └── README.md
 ```
+### Mejoras realizadas
+
+- Se documentó el proceso de consulta de medicamentos.

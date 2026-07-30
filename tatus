@@ -1,0 +1,17 @@
+* [33mbbb56a6[m[33m ([m[1;31morigin/feature/register-medication[m[33m, [m[1;32mfeature/register-medication[m[33m)[m feat: improve medication registration documentation
+*   [33m91ffa83[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeature/view-medications[m[33m, [m[1;31morigin/qa[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/feature/view-medications[m[33m, [m[1;31morigin/dev[m[33m, [m[1;32mqa[m[33m, [m[1;32mmain[m[33m, [m[1;32mdev[m[33m)[m Merge pull request #8 from DmeshellHeredia/feature/manejo-errores-y-loading
+[32m|[m[33m\[m  
+[32m|[m * [33m436053a[m docs: actualizar README a CRUD completo y limpieza de comentarios
+[32m|[m * [33mb423ed8[m feat: middleware global de errores en backend + estado de carga en el formulario
+[32m|[m[32m/[m  
+*   [33m1d6a403[m Merge pull request #7 from DmeshellHeredia/feature/scrum-27-eliminar-medicamento
+[34m|[m[35m\[m  
+[34m|[m * [33m3ccaee4[m SCRUM-27: Frontend - Implementar borrado real de medicamento + modal de confirmacion
+[34m|[m[34m/[m  
+* [33m1a759f8[m update readme
+*   [33m0007673[m Merge pull request #5 from DmeshellHeredia/feature/scrum-28-confirmacion-eliminar
+[36m|[m[1;31m\[m  
+[36m|[m * [33m2e6fab1[m SCRUM-28: Frontend - Agregar confirmación antes de eliminar medicamento
+[36m|[m[36m/[m  
+*   [33m484fe35[m Merge pull request #4 from DmeshellHeredia/feature/scrum-24-formulario-edicion
+[1;32m|[m[1;33m\[m  
