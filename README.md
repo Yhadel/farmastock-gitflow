@@ -329,3 +329,7 @@ Se añadió documentación sobre el proceso de edición de medicamentos dentro d
 ### Actualización de eliminación de medicamentos
 
 Se agregó documentación sobre el proceso de eliminación de medicamentos. Antes de eliminar un registro, el sistema solicita una confirmación al usuario para evitar eliminaciones accidentales y mantener la integridad de la información.
+
+### Actualización de validación de datos
+
+Se agregó documentación sobre la validación de los datos ingresados al registrar o editar medicamentos. El sistema verifica que los campos obligatorios estén completos y que la información ingresada sea válida antes de guardar los cambios en la base de datos.
