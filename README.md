@@ -336,3 +336,7 @@ Se agregó documentación sobre el proceso de eliminación de medicamentos. Ante
 ### Actualización de validación de datos
 
 Se agregó documentación sobre la validación de los datos ingresados al registrar o editar medicamentos. El sistema verifica que los campos obligatorios estén completos y que la información ingresada sea válida antes de guardar los cambios en la base de datos.
+
+### Corrección de formato
+
+Se realizaron pequeños ajustes de formato y organización del documento README para mejorar la claridad de la documentación del proyecto.
