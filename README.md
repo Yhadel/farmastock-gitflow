@@ -3,6 +3,26 @@
 
 Se realizaron mejoras en el módulo de registro de medicamentos para optimizar el proceso de creación de nuevos registros y facilitar su mantenimiento.
 
+### Mejoras realizadas
+
+- Se documentó el proceso de consulta de medicamentos.
+
+### Actualización de edición de medicamentos
+
+Se añadió documentación sobre el proceso de edición de medicamentos dentro del CRUD, indicando que el usuario puede modificar la información de un medicamento existente y guardar los cambios para mantener actualizado el inventario.
+
+### Actualización de eliminación de medicamentos
+
+Se agregó documentación sobre el proceso de eliminación de medicamentos. Antes de eliminar un registro, el sistema solicita una confirmación al usuario para evitar eliminaciones accidentales y mantener la integridad de la información.
+
+### Actualización de validación de datos
+
+Se agregó documentación sobre la validación de los datos ingresados al registrar o editar medicamentos. El sistema verifica que los campos obligatorios estén completos y que la información ingresada sea válida antes de guardar los cambios en la base de datos.
+
+### Corrección de formato
+
+Se realizaron pequeños ajustes de formato y organización del documento README para mejorar la claridad de la documentación del proyecto.
+
 Proyecto universitario para la práctica de **Scrum Poker** y **Sprint Planning**.
 El incremento funcional final será un **CRUD de Gestión de Medicamentos** para FarmaStock.
 
@@ -321,22 +341,3 @@ farmastock-crud-medicamentos/
 ├── .gitignore
 └── README.md
 ```
-### Mejoras realizadas
-
-- Se documentó el proceso de consulta de medicamentos.
-
-### Actualización de edición de medicamentos
-
-Se añadió documentación sobre el proceso de edición de medicamentos dentro del CRUD, indicando que el usuario puede modificar la información de un medicamento existente y guardar los cambios para mantener actualizado el inventario.
-
-### Actualización de eliminación de medicamentos
-
-Se agregó documentación sobre el proceso de eliminación de medicamentos. Antes de eliminar un registro, el sistema solicita una confirmación al usuario para evitar eliminaciones accidentales y mantener la integridad de la información.
-
-### Actualización de validación de datos
-
-Se agregó documentación sobre la validación de los datos ingresados al registrar o editar medicamentos. El sistema verifica que los campos obligatorios estén completos y que la información ingresada sea válida antes de guardar los cambios en la base de datos.
-
-### Corrección de formato
-
-Se realizaron pequeños ajustes de formato y organización del documento README para mejorar la claridad de la documentación del proyecto.
